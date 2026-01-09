@@ -157,7 +157,7 @@ Melchionna, M., Profico, A., Castiglione, S., Serio, C., Mondanaro,
   sabre-tooth. \emph{Palaeontology}, 64, 573–584. doi:10.1111/pala.12542
 }
 \seealso{
-\href{../doc/search.conv.html}{\code{search.conv} vignette} ;
+\href{https://CRAN.R-project.org/package=RRphylo/vignettes/search.conv.html}{\code{search.conv} vignette} ;
   \code{\link[Morpho]{relWarps}} ; \code{\link[Morpho]{procSym}}
 }
 \author{

@@ -65,7 +65,7 @@
 #'   are mainly related to high-order morphological differences driven by
 #'   phylogeny and size variations.
 #' @export
-#' @seealso \href{../doc/search.conv.html}{\code{search.conv} vignette} ;
+#' @seealso \href{https://CRAN.R-project.org/package=RRphylo/vignettes/search.conv.html}{\code{search.conv} vignette} ;
 #'   \code{\link[Morpho]{relWarps}} ; \code{\link[Morpho]{procSym}}
 #' @importFrom grDevices rainbow
 #' @importFrom utils combn

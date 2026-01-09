@@ -1,8 +1,8 @@
 Package: RRmorph
 Type: Package
 Title: 3D Morphological Analyses with 'RRphylo'
-Date: 2025-05-07
-Version: 0.0.1
+Date: 2026-01-09
+Version: 0.0.2
 Authors@R: c(person(given = "Marina",
                       family = "Melchionna",
                       role = "aut"),
@@ -29,10 +29,10 @@ Encoding: UTF-8
 Depends: R (>= 3.6.0)
 Imports: Morpho, rgl, Rvcg, RRphylo
 Suggests: inflection, ddpcr, ape, knitr, rmarkdown
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-05-12 16:54:02 UTC; Silvia
+Packaged: 2026-01-09 11:56:43 UTC; Silvia
 Author: Marina Melchionna [aut],
   Silvia Castiglione [aut, cre],
   Carmela Serio [aut],
@@ -40,4 +40,4 @@ Author: Marina Melchionna [aut],
   Alessandro Mondanaro [aut],
   Pasquale Raia [aut]
 Repository: CRAN
-Date/Publication: 2025-05-14 08:30:06 UTC
+Date/Publication: 2026-01-09 12:20:02 UTC
